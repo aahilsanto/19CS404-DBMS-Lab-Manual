@@ -54,6 +54,7 @@ END;
 
 ### Output:
 
+![Alt text](exp07_1.png)
 
 ---
 
@@ -89,6 +90,8 @@ END;
 ```
 
 ### Output:
+
+![Alt text](exp07_2.png)
 
 ---
 
@@ -132,6 +135,7 @@ END;
 
 ### Output:
 
+![Alt text](exp07_3.png)
 
 ---
 
@@ -170,6 +174,8 @@ END;
 ```
 
 ### Output:
+
+![Alt text](exp07_4.png)
 
 ---
 
@@ -211,6 +217,7 @@ END;
 
 ### Output:
 
+![Alt text](exp07_5.png)
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
