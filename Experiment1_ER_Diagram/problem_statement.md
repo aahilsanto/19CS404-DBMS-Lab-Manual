@@ -53,15 +53,15 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### Assumptions
 
-Each member has a unique Member_ID used to identify them in the system.
+- Each member has a unique Member_ID used to identify them in the system.
 
-A member can join multiple fitness programs, and each program can have multiple members.
+- A member can join multiple fitness programs, and each program can have multiple members.
 
-A trainer may handle multiple programs, and a program may have more than one trainer.
+- A trainer may handle multiple programs, and a program may have more than one trainer.
 
-Personal training sessions are booked by one member with one trainer at a specific time.
+- Personal training sessions are booked by one member with one trainer at a specific time.
 
-Payments can be made for both membership registration and personal training sessions.
+- Payments can be made for both membership registration and personal training sessions.
 
 ---
 
@@ -109,15 +109,15 @@ The Central Library wants to manage book lending and cultural events.
 
 ### Assumptions
 
-Each member and book is identified by a unique Member_ID and Book_ID.
+- Each member and book is identified by a unique Member_ID and Book_ID.
 
-A member can borrow multiple books, but each book loan record corresponds to one member at a time.
+- A member can borrow multiple books, but each book loan record corresponds to one member at a time.
 
-A book can be borrowed multiple times over time but only by one member during a loan period.
+- A book can be borrowed multiple times over time but only by one member during a loan period.
 
-Events organized by the library may have multiple speakers/authors.
+- Events organized by the library may have multiple speakers/authors.
 
-A fine is generated only when a book is returned after the due date.
+- A fine is generated only when a book is returned after the due date.
 
 ---
 
@@ -166,15 +166,15 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### Assumptions
 
-Each customer, reservation, and order has a unique identifier in the system.
+- Each customer, reservation, and order has a unique identifier in the system.
 
-A customer can make multiple reservations, but each reservation belongs to only one customer.
+- A customer can make multiple reservations, but each reservation belongs to only one customer.
 
-Each reservation is assigned to one table, while a table can serve multiple reservations at different times.
+- Each reservation is assigned to one table, while a table can serve multiple reservations at different times.
 
-An order may contain multiple dishes, and the same dish can appear in multiple orders.
+- An order may contain multiple dishes, and the same dish can appear in multiple orders.
 
-A single bill is generated per reservation, including food items and service charges.
+- A single bill is generated per reservation, including food items and service charges.
 
 ---
 
